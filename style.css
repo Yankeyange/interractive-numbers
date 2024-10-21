@@ -2,6 +2,7 @@ p{
   font-size: 18px;
 }
 
+/* permt d'arrondir chaque numéro*/
  .number1 {
     text-align: center;
     display: flex;
@@ -17,6 +18,7 @@ p{
     margin-right: 12px;
 }
 
+/* permt d'arrondir chaque numéro*/
 .number2 {
   text-align: center;
   display: flex;
@@ -32,6 +34,7 @@ p{
   margin-right: 12px;
 }
 
+/* permt d'arrondir chaque numéro*/
 .number3 {
   text-align: center;
   display: flex;
@@ -47,6 +50,7 @@ p{
   margin-right: 12px;
 }
 
+/* permt d'arrondir chaque numéro*/
 .number4 {
   text-align: center;
   display: flex;
@@ -61,7 +65,7 @@ p{
   font-weight: bold;
   margin-right: 12px;
 }
-
+/* permt d'arrondir chaque numéro*/
 .number5 {
   text-align: center;
   display: flex;
@@ -96,6 +100,7 @@ p{
   border-radius: 15px;
   cursor: pointer;
 }
+/* .button:hover pour le survol * /
 
  .button:hover {
   background-color: #45a049;
